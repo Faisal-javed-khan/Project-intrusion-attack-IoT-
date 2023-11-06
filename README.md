@@ -1,7 +1,7 @@
 # Project-intrusion-attack-IoT-
 Ensemble-classification , using optimal attributes for the detection of various  iot Intrusion attack
 
-<h3>Data Preparation:
+<h3>Data Preparation:</h3>
 
 The script loads CSV files from the current directory, containing labeled data for a machine learning model.
 Data is split into features and labels.
